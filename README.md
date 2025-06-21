@@ -26,6 +26,12 @@ My expertise lies in building REST APIs and developing asynchronous workers with
 
 Lately, I've been diving into authentication, identity federation, and software testing.
 
+プライベートなことも知りたい方は以下のサイトかX(Twitter)を見てください⚡
+
+If you want to know more about me personally, find me on X (Twitter) or check out my website below!
+
+[https://naughty-ghost.tech/](https://naughty-ghost.tech/)
+
 ## Skills
 - programming language
   - TypeScript
@@ -51,6 +57,6 @@ Lately, I've been diving into authentication, identity federation, and software 
   - Amazon Web Service
   - さくらVPS
 
-## contact
+## Contact
 - [email](works@naughty-ghost.tech)
 - [X(twitter)](https://x.com/_naughtyghost_)
