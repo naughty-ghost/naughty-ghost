@@ -15,20 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-会社員やってます。個人開発も行っています。ウェブアプリケーションの開発、特にバックエンドが中心です。
-REST APIの設計開発やメッセージキューを利用した非同期ワーカーの開発が得意です。API連携が可能なサービスを自サービスに組み込むのも得意です。
-
-最近は、認証やID連携とソフトウェアテストの勉強中です。
-
-I'm a software engineer who loves working on personal projects in my spare time. My main focus is on the backend side of web development.
-
-My expertise lies in building REST APIs and developing asynchronous workers with message queues. I also enjoy integrating various third-party API services into my own apps.
-
-Lately, I've been diving into authentication, identity federation, and software testing.
-
-プライベートなことも知りたい方は以下のサイトかX(Twitter)を見てください⚡
-
-If you want to know more about me personally, find me on X (Twitter) or check out my website below!
+本業はWebエンジニア、個人開発もやっています。
+バックエンド開発が中心で、REST APIの設計・メッセージキューを使った非同期処理・外部APIのサービス連携が得意です。
+最近は認証・ID連携とソフトウェアテストを掘り下げています。
+Web engineer & indie developer. I focus on backend development — REST API design, async workers with message queues, and third-party API integration. Currently exploring auth, identity federation, and software testing.
+プライベートについてはXかWebサイトをどうぞ ⚡
+Find me on X or check out my website below!
 
 [https://naughty-ghost.tech/](https://naughty-ghost.tech/)
 
