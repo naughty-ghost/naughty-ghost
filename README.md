@@ -45,6 +45,7 @@ Find me on X or check out my website below!
   - Docker
   - Terraform
   - Ansible
+- platform
   - Microsoft Azure
   - Google Cloud Platform
   - Amazon Web Service
