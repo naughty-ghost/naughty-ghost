@@ -23,7 +23,7 @@ Web engineer & indie developer. I focus on backend development — REST API desi
 プライベートについてはXかWebサイトをどうぞ ⚡
 Find me on X or check out my website below!
 
-[https://naughty-ghost.tech/](https://naughty-ghost.org/)
+[https://naughty-ghost.org/](https://naughty-ghost.org/)
 
 ## Skills
 - programming language
