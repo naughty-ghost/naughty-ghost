@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## About Me
-本業はWebエンジニア、個人開発もやっています。
+本業はWebエンジニア、個人開発でスマホアプリの開発もやっています。
 バックエンド開発が中心で、REST APIの設計・メッセージキューを使った非同期処理・外部APIのサービス連携が得意です。
-最近は認証・ID連携とソフトウェアテストを掘り下げています。
 
-Web engineer & indie developer. I focus on backend development — REST API design, async workers with message queues, and third-party API integration. Currently exploring auth, identity federation, and software testing.
 プライベートについてはXかWebサイトをどうぞ ⚡
 Find me on X or check out my website below!
 
